@@ -4,7 +4,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Birds</title>
+        <title>Birds!</title>
     </head>
     <body>
     <style>
